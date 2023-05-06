@@ -20,3 +20,7 @@ E-mail: gaiusyu6@gmail.co m
 
 *5. Yusi Tang, Ningjiang Chen\*., Yu Zhang, Xuyi Yao, **Siyu Yu**. (2022). Fine-Grained Diagnosis Method for Microservice Faults Based on Hierarchical Correlation Analysis. Computer Supported Cooperative Work and Social Computing: 16th CCF Conference (ChineseCSCW 2021), pp. 14-28.
 
+
+## Honors
+*1. 2023 Outstanding graduates of Guangxi University
+*2. 2022 Outstanding students of Guangxi University
