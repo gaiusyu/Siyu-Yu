@@ -4,7 +4,7 @@ received the BS degree from Guangxi University. He is currently working toward t
 ![siyu1](https://user-images.githubusercontent.com/84389256/236620001-91dd8bec-aeb7-427d-bcdc-8baae52e4f5a.png)
 
 
-E-mail: gaiusyu6@gmail.co m
+E-mail: gaiusyu6@gmail.com
 
 ## Research interest
 
