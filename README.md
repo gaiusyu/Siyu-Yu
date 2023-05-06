@@ -5,6 +5,11 @@ received the BS degree from Guangxi University. He is currently working toward t
 
 
 E-mail: gaiusyu6@gmail.co m
+
+## Research interest
+
+Intelligent software engineering, Distributed system, with special interests in Log Analysis (Log Parsing, Log-based Anomaly Detection).
+
 ## Publications
 
 \* corresponding author
