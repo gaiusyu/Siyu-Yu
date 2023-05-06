@@ -23,4 +23,5 @@ E-mail: gaiusyu6@gmail.co m
 
 ## Honors
 *1. 2023 Outstanding graduates of Guangxi University
+
 *2. 2022 Outstanding students of Guangxi University
