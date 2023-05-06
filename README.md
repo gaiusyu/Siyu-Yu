@@ -8,6 +8,8 @@ formation with Guangxi University, Guangxi, China, supervised by professor Ningj
 
 
 ## Publications
-*corresponding author
+
+* corresponding author
+
 ###1. **Siyu Yu**, Pinjia He, Ningjiang Chen*. (2023) Brain: Log Parsing with Bidirectional Parallel Tree, IEEE Transactions on Service Computing, Major Revision, (CCF-A, SCI 1)
 
