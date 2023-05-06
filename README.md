@@ -11,5 +11,13 @@ formation with Guangxi University, Guangxi, China, supervised by professor Ningj
 
 \* corresponding author
 
-*1. **Siyu Yu**, Pinjia He, Ningjiang Chen*. (2023) Brain: Log Parsing with Bidirectional Parallel Tree, IEEE Transactions on Service Computing, Major Revision, (CCF-A, SCI 1)
+*1. **Siyu Yu**, Pinjia He, Ningjiang Chen\*, Yifan Wu. (2023) Brain: Log Parsing with Bidirectional Parallel Tree, IEEE Transactions on Service Computing. (CCF-A)
+
+*2. **Siyu Yu**, Ningjiang Chen\*, Yifan Wu, WenSheng Dou. (2023). Self-supervised log parsing using semantic contribution difference.\Journal of Systems and Software, 2023, 111646. （CCF-B）
+
+*3. **Siyu Yu**, Ningjiang Chen\*, Birui Liang. (2021). Predicting gray fault based on context graph in container-based cloud. 2021 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW), pp. 224-234. IEEE.
+
+*4. Jining Chen, Weitu Chong, **Siyu Yu**, Zhun Xu, Chaohong Tan, Ningjiang Chen\*. (2022). TCN-based Lightweight Log Anomaly Detection in Cloud-edge Collaborative Environment. 2022 Tenth International Conference on Advanced Cloud and Big Data (CBD), pp. 13-18. IEEE.
+
+*5. Yusi Tang, Ningjiang Chen\*., Yu Zhang, Xuyi Yao, **Siyu Yu**. (2022). Fine-Grained Diagnosis Method for Microservice Faults Based on Hierarchical Correlation Analysis. Computer Supported Cooperative Work and Social Computing: 16th CCF Conference (ChineseCSCW 2021), pp. 14-28.
 
