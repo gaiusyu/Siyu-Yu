@@ -1,4 +1,3 @@
-# Siyu Yu
 Siyu Yu (Youth Yu)
 received the BS degree from Guangxi University. He is currently working toward the master’s degree in the School of Computer and Electronic Information with Guangxi University, Guangxi, China, supervised by professor Ningjiang Chen. His research lies within Software Engineering, with special interests in software log analysis.
 
